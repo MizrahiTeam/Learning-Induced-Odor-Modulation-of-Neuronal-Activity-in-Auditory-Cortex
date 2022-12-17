@@ -15,3 +15,15 @@ This file is large (418 MB) and can be downloaded from this google drive:
 TKTK
 
 All files can also be received by an email reques to the corresponding author.
+
+# Brief explanation about the .m files in this repository 
+The class odor_sound_data_holder hold all behavioral data for a single mouse/session combination, 
+it also holds a odor_sound_neuron object for each neuron containing the responsiveness and statistics of that neuron in that session
+
+all variables are documented within the class files:
+odor_sound_data_holder.m
+odor_sound_neuron.m
+
+objects of the class Task_GUI_Parameters contain technical data from the task GUI saved during the behavioral session
+
+

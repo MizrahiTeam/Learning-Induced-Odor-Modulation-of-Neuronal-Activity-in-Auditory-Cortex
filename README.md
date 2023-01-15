@@ -12,7 +12,7 @@ To visualize all the data related to the paper in Matlab do the foloowing:
 # The data file 
 The file containing the data is called odor_sound_data.mat 
 This file is large (418 MB) and can be downloaded from this google drive: 
-TKTK
+(https://drive.google.com/drive/folders/1-g8rNb9fYJYwRLvRh5PatRdBM4Wb_hxF?usp=share_link)
 
 All files can also be received by an email reques to the corresponding author.
 
